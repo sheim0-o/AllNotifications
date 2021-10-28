@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="SIMPLE_NOTIFICATION_ID" type="id"/>
+    <item name="CUSTOM_NOTIFICATION_ID" type="id"/>
+    <item name="BIG_PICTURE_NOTIFICATION_ID" type="id"/>
+    <item name="GOOGLE_NOTIFICATION_ID" type="id"/>
+    <item name="LOUVRE_NOTIFICATION_ID" type="id"/>
+    <item name="DIRECT_REPLY_NOTIFICATION_ID" type="id"/>
+    <item name="INBOX_STYLE_NOTIFICATION_ID" type="id"/>
+
+    <item name="BROWSER_PENDING_ID" type="id"/>
+    <item name="MAP_PENDING_ID" type="id"/>
+    <item name="TASK_PENDING_ID" type="id"/>
+    <item name="DIRECT_PENDING_ID" type="id"/>
+
+    <item name="PROGRESS_PENDING_ID" type="id"/>
+</resources>

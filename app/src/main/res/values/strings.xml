@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AllNotifications</string>
+
+    <string name="KEY_TEXT_REPLY">key_text_reply</string>
+
+    <string name="NOT_IMPORTANT_CHANNEL_NAME">Basic notification channel</string>
+    <string name="NOT_IMPORTANT_CHANNEL_DESCRIPTION">Basic notification channel description</string>
+
+    <string name="IMPORTANT_CHANNEL_NAME">Important notification channel</string>
+    <string name="IMPORTANT_CHANNEL_DESCRIPTION">Important notification channel description</string>
+</resources>
